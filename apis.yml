@@ -16,6 +16,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/qurate-retail-group-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/qurateretailgroup
   - type: Website
