@@ -20,6 +20,11 @@ type: Index
 url: https://raw.githubusercontent.com/api-evangelist/qurate-retail-group/refs/heads/main/apis.yml
 tags:
   - Retail
+  - E-Commerce
+  - Video Commerce
+  - Fortune 500
+tags_raw:
+  - Retail
   - Ecommerce
   - Video Commerce
   - Fortune 500
